@@ -1,0 +1,74 @@
+{
+    "cliente": [
+      {
+        "apellidos": "Jaramilllo",
+        "nombres": "Luis",
+        "cedula": 1215421885,
+        "direccion": "calle 123",
+        "telefono": "3443322"
+      },
+      {
+        "apellidos": "Lopez",
+        "nombres": "Marcela",
+        "cedula": 2136547898,
+        "direccion": "calle 323",
+        "telefono": "3044922"
+      },
+      {
+        "apellidos": "Guarin",
+        "nombres": "Juan",
+        "cedula": 1245781245,
+        "direccion": "calle 45b",
+        "telefono": "2234055"
+      },
+      {
+        "apellidos": "Marin",
+        "nombres": "Jorge",
+        "cedula": 1452369875,
+        "direccion": "calle 90f",
+        "telefono": "2239078"
+      },
+      {
+        "apellidos": "Cardenas",
+        "nombres": "Martin",
+        "cedula": 2145215426,
+        "direccion": "calle 23k",
+        "telefono": "3004433"
+      },
+      {
+        "apellidos": "Luan",
+        "nombres": "Kevin",
+        "cedula": 2315342134,
+        "direccion": "calle 32e",
+        "telefono": "3004422"
+      },
+      {
+        "apellidos": "Gutierrez",
+        "nombres": "Marco",
+        "cedula": 8214896569,
+        "direccion": "calle 321w",
+        "telefono": "3002211"
+      },
+      {
+        "apellidos": "Guevara",
+        "nombres": "Maria Isabel",
+        "cedula": 6213654789,
+        "direccion": "calle 45k",
+        "telefono": "4003399"
+      },
+      {
+        "apellidos": "Lopera",
+        "nombres": "Milan",
+        "cedula": 5231452369,
+        "direccion": "calle falsa",
+        "telefono": "2001122"
+      },
+      {
+        "apellidos": "Angulo",
+        "nombres": "Carlos",
+        "cedula": 3214236596,
+        "direccion": "calle 344f",
+        "telefono": "2003399"
+      }
+    ]
+}
